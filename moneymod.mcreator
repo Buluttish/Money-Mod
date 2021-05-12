@@ -243,6 +243,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "money_500_craft"
+    },
+    {
+      "name": "MONEY",
+      "type": "achievement",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money"
     }
   ],
   "variable_elements": [],
@@ -256,12 +265,14 @@
       "item.moneymod.money_500": "500 MineCoin",
       "item.moneymod.money_10": "10 MineCoin",
       "item.moneymod.money_20": "20 MineCoin",
+      "advancements.money.descr": "Craft your First Money",
       "item.moneymod.money_50": "50 MineCoin",
       "item.moneymod.pennies_25": "25 MicroCoin",
       "item.moneymod.dye_black": "Sticky Black Dye",
       "item.moneymod.pennies_10": "10 MicroCoin",
       "item.moneymod.pennies_50": "50 MicroCoin",
       "block.moneymod.dye_flower": "Sticky Black Flower",
+      "advancements.money.title": "MMMMMONEY!",
       "item.moneymod.money_1": "1 MineCoin / 100 MicroCoin",
       "item.moneymod.money_5": "5 MineCoin"
     },
@@ -273,12 +284,14 @@
       "item.moneymod.money_500": "500 MineCoin",
       "item.moneymod.money_10": "10 MineCoin",
       "item.moneymod.money_20": "20 MineCoin",
+      "advancements.money.descr": "Craft your First Money",
       "item.moneymod.money_50": "50 MineCoin",
       "item.moneymod.pennies_25": "25 MicroCoin",
       "item.moneymod.dye_black": "Yapýþkan Siyah Boya",
       "item.moneymod.pennies_10": "Pennies 1 0",
       "item.moneymod.pennies_50": "50 MicroCoin",
       "block.moneymod.dye_flower": "Yapýþkan Siyah Çiçek",
+      "advancements.money.title": "MMMMMONEY!",
       "item.moneymod.money_1": "1 MineCoin",
       "item.moneymod.money_5": "5 MineCoin"
     }

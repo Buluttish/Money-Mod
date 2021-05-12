@@ -1,0 +1,37 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "moneymod:money_5"
+    },
+    "title": {
+      "translate": "advancements.money.title"
+    },
+    "description": {
+      "translate": "advancements.money.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "money": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "moneymod:pennies_25",
+            "count": {
+              "min": 1,
+              "max": 3
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}
