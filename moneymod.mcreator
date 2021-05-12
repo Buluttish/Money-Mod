@@ -293,6 +293,7 @@
     "version": "Build0062 Beta",
     "description": "Adds MONEY to Your Worlds!",
     "author": "Buluttish",
+    "websiteURL": "https://mcreator.net",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
@@ -302,6 +303,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "fabric-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "resources.buluttish.moneymod",
     "lockBaseModFiles": false
   },
