@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "pennies50",
     "customModelName": "Normal",
-    "name": "1 MineCoin",
+    "name": "1 MineCoin / 100 MicroCoin",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "MATERIALS"
