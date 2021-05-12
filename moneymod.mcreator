@@ -1,0 +1,309 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Money1",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_1"
+    },
+    {
+      "name": "Money5",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_5"
+    },
+    {
+      "name": "Money10",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_10"
+    },
+    {
+      "name": "Money20",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_20"
+    },
+    {
+      "name": "Money50",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_50"
+    },
+    {
+      "name": "Money100",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_100"
+    },
+    {
+      "name": "Money200",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_200"
+    },
+    {
+      "name": "Money500",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_500"
+    },
+    {
+      "name": "Pennies50",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pennies_50"
+    },
+    {
+      "name": "Pennies25",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pennies_25"
+    },
+    {
+      "name": "Pennies10",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pennies_10"
+    },
+    {
+      "name": "PaperFlower",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paper_flower"
+    },
+    {
+      "name": "DyeFlower",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dye_flower"
+    },
+    {
+      "name": "DyeBlack",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dye_black"
+    },
+    {
+      "name": "Paperize",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paperize"
+    },
+    {
+      "name": "PaperizeCraft",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paperize_craft"
+    },
+    {
+      "name": "Pennie10Craft",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pennie_10_craft"
+    },
+    {
+      "name": "Pennie20Craft",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pennie_20_craft"
+    },
+    {
+      "name": "Pennie50Craft",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pennie_50_craft"
+    },
+    {
+      "name": "Money1Craft",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_1_craft"
+    },
+    {
+      "name": "Money5Craft",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_5_craft"
+    },
+    {
+      "name": "Money10Craft",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_10_craft"
+    },
+    {
+      "name": "Money20Craft",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_20_craft"
+    },
+    {
+      "name": "Money50Craft",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_50_craft"
+    },
+    {
+      "name": "Money100Craft",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_100_craft"
+    },
+    {
+      "name": "Money200Craft",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_200_craft"
+    },
+    {
+      "name": "Money500Craft",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_500_craft"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.moneymod.money_100": "100 MineCoin",
+      "block.moneymod.paper_flower": "Paperize Flower",
+      "item.moneymod.money_200": "200 MineCoin",
+      "item.moneymod.paperize": "Paperize",
+      "item.moneymod.money_500": "500 MineCoin",
+      "item.moneymod.money_10": "10 MineCoin",
+      "item.moneymod.money_20": "20 MineCoin",
+      "item.moneymod.money_50": "50 MineCoin",
+      "item.moneymod.pennies_25": "25 MicroCoin",
+      "item.moneymod.dye_black": "Sticky Black Dye",
+      "item.moneymod.pennies_10": "10 MicroCoin",
+      "item.moneymod.pennies_50": "50 MicroCoin",
+      "block.moneymod.dye_flower": "Sticky Black Flower",
+      "item.moneymod.money_1": "1 MineCoin",
+      "item.moneymod.money_5": "5 MineCoin"
+    },
+    "tr_tr": {
+      "item.moneymod.money_100": "100 MineCoin",
+      "block.moneymod.paper_flower": "Paperize Çiçeði",
+      "item.moneymod.money_200": "200 MineCoin",
+      "item.moneymod.paperize": "Paperize",
+      "item.moneymod.money_500": "500 MineCoin",
+      "item.moneymod.money_10": "10 MineCoin",
+      "item.moneymod.money_20": "20 MineCoin",
+      "item.moneymod.money_50": "50 MineCoin",
+      "item.moneymod.pennies_25": "25 MicroCoin",
+      "item.moneymod.dye_black": "Yapýþkan Siyah Boya",
+      "item.moneymod.pennies_10": "Pennies 1 0",
+      "item.moneymod.pennies_50": "50 MicroCoin",
+      "block.moneymod.dye_flower": "Yapýþkan Siyah Çiçek",
+      "item.moneymod.money_1": "1 MineCoin",
+      "item.moneymod.money_5": "5 MineCoin"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "moneymod",
+    "modName": "Money Mod",
+    "version": "Build0062 Beta",
+    "description": "Adds MONEY to Your Worlds!",
+    "author": "Buluttish",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "pack",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.16.5",
+    "modElementsPackage": "resources.buluttish.moneymod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

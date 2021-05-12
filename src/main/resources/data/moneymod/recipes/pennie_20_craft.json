@@ -1,0 +1,22 @@
+{
+  "group": "moneymod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "moneymod:dye_black"
+    },
+    {
+      "item": "moneymod:pennies_10"
+    },
+    {
+      "item": "moneymod:pennies_10"
+    }
+  ],
+  "result": {
+    "item": "moneymod:pennies_25",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "moneymod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "moneymod:paper_flower"
+    }
+  ],
+  "result": {
+    "item": "moneymod:paperize",
+    "count": 3
+  }
+}

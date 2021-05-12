@@ -1,0 +1,16 @@
+{
+  "group": "moneymod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:planks"
+    },
+    {
+      "item": "moneymod:dye_black"
+    }
+  ],
+  "result": {
+    "item": "moneymod:pennies_10",
+    "count": 3
+  }
+}

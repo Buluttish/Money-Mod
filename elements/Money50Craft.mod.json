@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DyeBlack"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Money10"
+      },
+      {
+        "value": "CUSTOM:Money20"
+      },
+      {
+        "value": "CUSTOM:Money20"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Paperize"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Money50"
+    },
+    "name": "money_50_craft",
+    "namespace": "mod"
+  }
+}
