@@ -2,24 +2,24 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "dyeflower",
+    "texture": "stickyblackdye",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
     "textureRight": "",
     "textureBack": "",
-    "renderType": 12,
-    "customModelName": "Cross model",
+    "renderType": 11,
+    "customModelName": "Single texture",
     "rotationMode": 0,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "dyefloweritem",
+    "itemTexture": "",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
-    "hasTransparency": true,
+    "hasTransparency": false,
     "connectedSides": false,
-    "transparencyType": "CUTOUT_MIPPED",
+    "transparencyType": "SOLID",
     "disableOffset": false,
     "boundingBoxes": [
       {
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Sticky Black Flower",
+    "name": "Black Sticky Leaf",
     "specialInfo": [],
     "hardness": 0.05,
     "resistance": 0.5,
@@ -45,32 +45,32 @@
     "customDrop": {
       "value": "CUSTOM:DyeBlack"
     },
-    "dropAmount": 1,
+    "dropAmount": 31,
     "useLootTableForDrops": false,
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canProvidePower": false,
-    "lightOpacity": 0,
+    "lightOpacity": 55,
     "material": {
-      "value": "PLANTS"
+      "value": "LEAVES"
     },
     "tickRate": 10,
     "tickRandomly": false,
-    "isReplaceable": true,
+    "isReplaceable": false,
     "colorOnMap": "DEFAULT",
     "creativePickItem": {
       "value": ""
     },
-    "offsetType": "XZ",
-    "aiPathNodeType": "WALKABLE",
+    "offsetType": "NONE",
+    "aiPathNodeType": "DEFAULT",
     "flammability": 0,
     "fireSpreadSpeed": 0,
     "isLadder": false,
     "slipperiness": 0.6,
     "speedFactor": 1.0,
     "jumpFactor": 1.0,
-    "reactionToPushing": "DESTROY",
-    "isNotColidable": true,
+    "reactionToPushing": "NORMAL",
+    "isNotColidable": false,
     "soundOnStep": {
       "value": "PLANT"
     },
@@ -107,23 +107,11 @@
     "restrictionBiomes": [],
     "blocksToReplace": [
       {
-        "value": "Blocks.RED_FLOWER#4"
-      },
-      {
-        "value": "Blocks.CORNFLOWER"
-      },
-      {
-        "value": "Blocks.RED_FLOWER#0"
-      },
-      {
-        "value": "Blocks.RED_FLOWER#7"
-      },
-      {
-        "value": "Blocks.RED_FLOWER#2"
+        "value": "Blocks.LEAVES"
       }
     ],
-    "frequencyPerChunks": 24,
-    "frequencyOnChunk": 16,
+    "frequencyPerChunks": 2,
+    "frequencyOnChunk": 1,
     "minGenerateHeight": 0,
     "maxGenerateHeight": 256
   }

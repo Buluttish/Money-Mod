@@ -25,8 +25,10 @@ import resources.buluttish.moneymod.item.Money1Item;
 import resources.buluttish.moneymod.item.Money10Item;
 import resources.buluttish.moneymod.item.Money100Item;
 import resources.buluttish.moneymod.item.DyeBlackItem;
+import resources.buluttish.moneymod.block.PaperizeLeaveBlock;
 import resources.buluttish.moneymod.block.PaperFlowerBlock;
 import resources.buluttish.moneymod.block.DyeFlowerBlock;
+import resources.buluttish.moneymod.block.BlackStickyDyeBlock;
 
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
@@ -62,6 +64,12 @@ public class MoneymodMod implements ModInitializer {
 	public static final Block DyeFlower_BLOCK = Registry.register(Registry.BLOCK, id("dye_flower"), new DyeFlowerBlock());
 	public static final BlockItem DyeFlower_ITEM = Registry.register(Registry.ITEM, id("dye_flower"),
 			new BlockItem(DyeFlower_BLOCK, new Item.Settings().group(ItemGroup.MATERIALS)));
+	public static final Block BlackStickyDye_BLOCK = Registry.register(Registry.BLOCK, id("black_sticky_leave"), new BlackStickyDyeBlock());
+	public static final BlockItem BlackStickyDye_ITEM = Registry.register(Registry.ITEM, id("black_sticky_leave"),
+			new BlockItem(BlackStickyDye_BLOCK, new Item.Settings().group(ItemGroup.MATERIALS)));
+	public static final Block PaperizeLeave_BLOCK = Registry.register(Registry.BLOCK, id("paperize_leave"), new PaperizeLeaveBlock());
+	public static final BlockItem PaperizeLeave_ITEM = Registry.register(Registry.ITEM, id("paperize_leave"),
+			new BlockItem(PaperizeLeave_BLOCK, new Item.Settings().group(ItemGroup.MATERIALS)));
 	@Override
 	public void onInitialize() {
 		LOGGER.info("Initializing MoneymodMod");

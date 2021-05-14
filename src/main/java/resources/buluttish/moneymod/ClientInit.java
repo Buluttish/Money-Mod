@@ -24,6 +24,8 @@ public class ClientInit implements ClientModInitializer {
 	public void onInitializeClient() {
 		BlockRenderLayerMap.INSTANCE.putBlock(MoneymodMod.PaperFlower_BLOCK, RenderLayer.getCutoutMipped());
 		BlockRenderLayerMap.INSTANCE.putBlock(MoneymodMod.DyeFlower_BLOCK, RenderLayer.getCutoutMipped());
+		BlockRenderLayerMap.INSTANCE.putBlock(MoneymodMod.BlackStickyDye_BLOCK, RenderLayer.getCutoutMipped());
+		BlockRenderLayerMap.INSTANCE.putBlock(MoneymodMod.PaperizeLeave_BLOCK, RenderLayer.getCutoutMipped());
 		HudRenderCallback.EVENT.register((matrices, tickDelta) -> {
 		});
 		ClientTickEvents.END_CLIENT_TICK.register((client) -> {

@@ -22,7 +22,7 @@ import java.util.Collections;
 
 public class DyeFlowerBlock extends Block {
 	public DyeFlowerBlock() {
-		super(FabricBlockSettings.of(Material.PLANT).sounds(BlockSoundGroup.CROP).strength(0.05F, 0.5F).luminance(0).noCollision());
+		super(FabricBlockSettings.of(Material.PLANT).sounds(BlockSoundGroup.CROP).strength(0.05F, 0.5F).luminance(0).noCollision().nonOpaque());
 	}
 
 	@Override

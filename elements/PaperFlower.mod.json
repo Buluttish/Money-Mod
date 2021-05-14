@@ -114,6 +114,15 @@
       },
       {
         "value": "Blocks.CORNFLOWER"
+      },
+      {
+        "value": "Blocks.TALLGRASS#1"
+      },
+      {
+        "value": "Blocks.RED_FLOWER#5"
+      },
+      {
+        "value": "Blocks.RED_FLOWER#1"
       }
     ],
     "frequencyPerChunks": 10,

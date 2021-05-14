@@ -252,6 +252,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "money"
+    },
+    {
+      "name": "BlackStickyDye",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_sticky_leave"
+    },
+    {
+      "name": "PaperizeLeave",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paperize_leave"
     }
   ],
   "variable_elements": [],
@@ -266,10 +284,12 @@
       "item.moneymod.money_10": "10 MineCoin",
       "item.moneymod.money_20": "20 MineCoin",
       "advancements.money.descr": "Craft your First Money",
+      "block.moneymod.black_sticky_leave": "Black Sticky Leaf",
       "item.moneymod.money_50": "50 MineCoin",
       "item.moneymod.pennies_25": "25 MicroCoin",
       "item.moneymod.dye_black": "Sticky Black Dye",
       "item.moneymod.pennies_10": "10 MicroCoin",
+      "block.moneymod.paperize_leave": "Paperize Leaves",
       "item.moneymod.pennies_50": "50 MicroCoin",
       "block.moneymod.dye_flower": "Sticky Black Flower",
       "advancements.money.title": "MMMMMONEY!",
@@ -284,14 +304,16 @@
       "item.moneymod.money_500": "500 MineCoin",
       "item.moneymod.money_10": "10 MineCoin",
       "item.moneymod.money_20": "20 MineCoin",
-      "advancements.money.descr": "Craft your First Money",
+      "advancements.money.descr": "Ýlk Paraný Oluþtur!",
+      "block.moneymod.black_sticky_leave": "Siyah Yapýþkan Yapraklar",
       "item.moneymod.money_50": "50 MineCoin",
       "item.moneymod.pennies_25": "25 MicroCoin",
       "item.moneymod.dye_black": "Yapýþkan Siyah Boya",
       "item.moneymod.pennies_10": "Pennies 1 0",
+      "block.moneymod.paperize_leave": "Paperize Yapraklar",
       "item.moneymod.pennies_50": "50 MicroCoin",
       "block.moneymod.dye_flower": "Yapýþkan Siyah Çiçek",
-      "advancements.money.title": "MMMMMONEY!",
+      "advancements.money.title": "PAAAARAA!",
       "item.moneymod.money_1": "1 MineCoin",
       "item.moneymod.money_5": "5 MineCoin"
     }
