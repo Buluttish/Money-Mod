@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "id": "moneymod",
-  "version": "Build0062 Beta",
+  "version": "Build 0098",
   "name": "Money Mod",
   "description": "Adds MONEY to Your Worlds!",
   "authors": [
     "Buluttish"
   ],
   "contact": {
-    "homepage": "https://mcreator.net",
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/moneys",
     "sources": "https://github.com/ClothCreators/MCreatorFabricGenerator"
   },
   "license": "Academic Free License v3.0",
