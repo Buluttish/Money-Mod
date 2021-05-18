@@ -1,0 +1,25 @@
+{
+  "group": "moneymod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "moneymod:money_200"
+    },
+    {
+      "item": "moneymod:money_200"
+    },
+    {
+      "item": "moneymod:money_200"
+    },
+    {
+      "item": "moneymod:money_200"
+    },
+    {
+      "item": "moneymod:money_200"
+    }
+  ],
+  "result": {
+    "item": "moneymod:money_200x_5",
+    "count": 1
+  }
+}

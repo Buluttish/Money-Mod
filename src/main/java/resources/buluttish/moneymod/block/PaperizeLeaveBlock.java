@@ -3,6 +3,8 @@ package resources.buluttish.moneymod.block;
 
 import resources.buluttish.moneymod.MoneymodMod;
 
+import net.minecraft.world.BlockView;
+import net.minecraft.util.math.BlockPos;
 import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.loot.context.LootContext;
 import net.minecraft.item.ItemStack;
@@ -18,6 +20,11 @@ import java.util.Collections;
 public class PaperizeLeaveBlock extends Block {
 	public PaperizeLeaveBlock() {
 		super(FabricBlockSettings.of(Material.LEAVES).sounds(BlockSoundGroup.CROP).strength(0.05F, 0.5F).luminance(0));
+	}
+
+	@Override
+	public boolean isTranslucent(BlockState state, BlockView world, BlockPos pos) {
+		return true;
 	}
 
 	@Override

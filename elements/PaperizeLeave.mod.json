@@ -50,7 +50,7 @@
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canProvidePower": false,
-    "lightOpacity": 55,
+    "lightOpacity": 0,
     "material": {
       "value": "LEAVES"
     },

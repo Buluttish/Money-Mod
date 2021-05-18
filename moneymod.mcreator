@@ -4,7 +4,7 @@
     {
       "name": "Money1",
       "type": "item",
-      "sortid": 1,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -13,7 +13,7 @@
     {
       "name": "Money5",
       "type": "item",
-      "sortid": 2,
+      "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -22,7 +22,7 @@
     {
       "name": "Money10",
       "type": "item",
-      "sortid": 3,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -31,7 +31,7 @@
     {
       "name": "Money20",
       "type": "item",
-      "sortid": 4,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -40,7 +40,7 @@
     {
       "name": "Money50",
       "type": "item",
-      "sortid": 5,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -49,7 +49,7 @@
     {
       "name": "Money100",
       "type": "item",
-      "sortid": 6,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -58,7 +58,7 @@
     {
       "name": "Money200",
       "type": "item",
-      "sortid": 7,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -67,7 +67,7 @@
     {
       "name": "Money500",
       "type": "item",
-      "sortid": 8,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -103,7 +103,7 @@
     {
       "name": "PaperFlower",
       "type": "block",
-      "sortid": 12,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -112,7 +112,7 @@
     {
       "name": "DyeFlower",
       "type": "block",
-      "sortid": 13,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -121,7 +121,7 @@
     {
       "name": "DyeBlack",
       "type": "item",
-      "sortid": 14,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -130,7 +130,7 @@
     {
       "name": "Paperize",
       "type": "item",
-      "sortid": 15,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -139,7 +139,7 @@
     {
       "name": "PaperizeCraft",
       "type": "recipe",
-      "sortid": 16,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -148,7 +148,7 @@
     {
       "name": "Pennie10Craft",
       "type": "recipe",
-      "sortid": 17,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -157,7 +157,7 @@
     {
       "name": "Pennie20Craft",
       "type": "recipe",
-      "sortid": 18,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -166,7 +166,7 @@
     {
       "name": "Pennie50Craft",
       "type": "recipe",
-      "sortid": 19,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -175,7 +175,7 @@
     {
       "name": "Money1Craft",
       "type": "recipe",
-      "sortid": 20,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -184,7 +184,7 @@
     {
       "name": "Money5Craft",
       "type": "recipe",
-      "sortid": 21,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -193,7 +193,7 @@
     {
       "name": "Money10Craft",
       "type": "recipe",
-      "sortid": 22,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -202,7 +202,7 @@
     {
       "name": "Money20Craft",
       "type": "recipe",
-      "sortid": 23,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -211,7 +211,7 @@
     {
       "name": "Money50Craft",
       "type": "recipe",
-      "sortid": 24,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -220,7 +220,7 @@
     {
       "name": "Money100Craft",
       "type": "recipe",
-      "sortid": 25,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -229,7 +229,7 @@
     {
       "name": "Money200Craft",
       "type": "recipe",
-      "sortid": 26,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -238,7 +238,7 @@
     {
       "name": "Money500Craft",
       "type": "recipe",
-      "sortid": 27,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -247,7 +247,7 @@
     {
       "name": "MONEY",
       "type": "achievement",
-      "sortid": 28,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -256,7 +256,7 @@
     {
       "name": "BlackStickyDye",
       "type": "block",
-      "sortid": 29,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -265,57 +265,237 @@
     {
       "name": "PaperizeLeave",
       "type": "block",
-      "sortid": 30,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "paperize_leave"
+    },
+    {
+      "name": "Money5x5",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_5x_5"
+    },
+    {
+      "name": "Money10x5",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_10x_5"
+    },
+    {
+      "name": "Money20x5",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_20x_5"
+    },
+    {
+      "name": "Money50x5",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_50x_5"
+    },
+    {
+      "name": "DyeFlowerFix",
+      "type": "plant",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dye_flower_fix"
+    },
+    {
+      "name": "PaperFlowerFix",
+      "type": "plant",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paper_flower_fix"
+    },
+    {
+      "name": "Money100x5",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_100x_5"
+    },
+    {
+      "name": "Money200x5",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_200x_5"
+    },
+    {
+      "name": "FlowerItems",
+      "type": "tag",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flower_items"
+    },
+    {
+      "name": "LeaveBlocks",
+      "type": "tag",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leave_blocks"
+    },
+    {
+      "name": "Money500x5",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_500x_5"
+    },
+    {
+      "name": "Money5x5Craft",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_5x_5_craft"
+    },
+    {
+      "name": "Money10x5Craft",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_10x_5_craft"
+    },
+    {
+      "name": "Money20x5Craft",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_20x_5_craft"
+    },
+    {
+      "name": "Money50x5Craft",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_50x_5_craft"
+    },
+    {
+      "name": "Money100x5Craft",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_100x_5_craft"
+    },
+    {
+      "name": "Money200x5Craft",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_200x_5_craft"
+    },
+    {
+      "name": "Money500x5Craft",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money_500x_5_craft"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.moneymod.money_100": "100 MineCoin",
+      "block.moneymod.dye_flower_fix": "Dye Flower",
       "block.moneymod.paper_flower": "Paperize Flower",
-      "item.moneymod.money_200": "200 MineCoin",
-      "item.moneymod.paperize": "Paperize",
-      "item.moneymod.money_500": "500 MineCoin",
       "item.moneymod.money_10": "10 MineCoin",
-      "item.moneymod.money_20": "20 MineCoin",
       "advancements.money.descr": "Craft your First Money",
       "block.moneymod.black_sticky_leave": "Black Sticky Leaf",
+      "item.moneymod.money_50x_5": "50 MineCoin x5 (250)",
       "item.moneymod.money_50": "50 MineCoin",
-      "item.moneymod.pennies_25": "25 MicroCoin",
+      "block.moneymod.paper_flower_fix": "Paper Flower",
       "item.moneymod.dye_black": "Sticky Black Dye",
       "item.moneymod.pennies_10": "10 MicroCoin",
       "block.moneymod.paperize_leave": "Paperize Leaves",
       "item.moneymod.pennies_50": "50 MicroCoin",
-      "block.moneymod.dye_flower": "Sticky Black Flower",
       "advancements.money.title": "MMMMMONEY!",
-      "item.moneymod.money_1": "1 MineCoin / 100 MicroCoin",
-      "item.moneymod.money_5": "5 MineCoin"
-    },
-    "tr_tr": {
+      "item.moneymod.money_20x_5": "20 MineCoin x5 (100)",
       "item.moneymod.money_100": "100 MineCoin",
-      "block.moneymod.paper_flower": "Paperize Çiçeði",
       "item.moneymod.money_200": "200 MineCoin",
       "item.moneymod.paperize": "Paperize",
       "item.moneymod.money_500": "500 MineCoin",
-      "item.moneymod.money_10": "10 MineCoin",
       "item.moneymod.money_20": "20 MineCoin",
+      "item.moneymod.pennies_25": "25 MicroCoin",
+      "item.moneymod.money_100x_5": "100 MineCoin x5 (500)",
+      "item.moneymod.money_10x_5": "10 MineCoins x5 (50)",
+      "item.moneymod.money_200x_5": "200 MineCoin x5 (1000)",
+      "block.moneymod.dye_flower": "Sticky Black Flower",
+      "item.moneymod.money_1": "1 MineCoin / 100 MicroCoin",
+      "item.moneymod.money_5x_5": "5 MineCoin x5(25)",
+      "item.moneymod.money_5": "5 MineCoin",
+      "item.moneymod.money_500x_5": "500 MicroCoins x5 (2500)"
+    },
+    "tr_tr": {
+      "block.moneymod.dye_flower_fix": "Dye Flower Fix",
+      "block.moneymod.paper_flower": "Paperize Çiçeði",
+      "item.moneymod.money_10": "10 MineCoin",
       "advancements.money.descr": "Ýlk Paraný Oluþtur!",
       "block.moneymod.black_sticky_leave": "Siyah Yapýþkan Yapraklar",
+      "item.moneymod.money_50x_5": "50 MineCoin x5 (250)",
       "item.moneymod.money_50": "50 MineCoin",
-      "item.moneymod.pennies_25": "25 MicroCoin",
+      "block.moneymod.paper_flower_fix": "Paper Flower",
       "item.moneymod.dye_black": "Yapýþkan Siyah Boya",
       "item.moneymod.pennies_10": "Pennies 1 0",
       "block.moneymod.paperize_leave": "Paperize Yapraklar",
       "item.moneymod.pennies_50": "50 MicroCoin",
-      "block.moneymod.dye_flower": "Yapýþkan Siyah Çiçek",
       "advancements.money.title": "PAAAARAA!",
+      "item.moneymod.money_20x_5": "20 MineCoin x5 (100)",
+      "item.moneymod.money_100": "100 MineCoin",
+      "item.moneymod.money_200": "200 MineCoin",
+      "item.moneymod.paperize": "Paperize",
+      "item.moneymod.money_500": "500 MineCoin",
+      "item.moneymod.money_20": "20 MineCoin",
+      "item.moneymod.pennies_25": "25 MicroCoin",
+      "item.moneymod.money_100x_5": "100 MineCoin x5 (500)",
+      "item.moneymod.money_10x_5": "10 MineCoins x5 (50)",
+      "item.moneymod.money_200x_5": "200 MineCoin x5 (1000)",
+      "block.moneymod.dye_flower": "Yapýþkan Siyah Çiçek",
       "item.moneymod.money_1": "1 MineCoin",
-      "item.moneymod.money_5": "5 MineCoin"
+      "item.moneymod.money_5x_5": "5 MineCoin x5(25)",
+      "item.moneymod.money_5": "5 MineCoin",
+      "item.moneymod.money_500x_5": "500 MicroCoins x5 (2500)"
     }
   },
   "foldersRoot": {

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "moneymod:blocks/paperflower",
+    "particle": "moneymod:blocks/paperflower"
+  }
+}
