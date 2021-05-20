@@ -7,17 +7,17 @@ import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.loot.context.LootContext;
 import net.minecraft.item.ItemStack;
 import net.minecraft.block.Material;
+import net.minecraft.block.LeavesBlock;
 import net.minecraft.block.BlockState;
-import net.minecraft.block.Block;
 
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 
 import java.util.List;
 import java.util.Collections;
 
-public class BlackStickyDyeBlock extends Block {
+public class BlackStickyDyeBlock extends LeavesBlock {
 	public BlackStickyDyeBlock() {
-		super(FabricBlockSettings.of(Material.LEAVES).sounds(BlockSoundGroup.CROP).strength(0.05F, 0.5F).luminance(0));
+		super(FabricBlockSettings.of(Material.LEAVES).sounds(BlockSoundGroup.CROP).strength(0.05F, 0.5F).luminance(0).nonOpaque());
 	}
 
 	@Override

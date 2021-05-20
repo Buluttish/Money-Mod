@@ -15,6 +15,7 @@
     "displayFluidOverlay": false,
     "itemTexture": "",
     "particleTexture": "",
+    "blockBase": "Leaves",
     "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": false,
